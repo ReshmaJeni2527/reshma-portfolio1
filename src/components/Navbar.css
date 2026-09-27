@@ -41,7 +41,7 @@
   position: relative;
   padding-bottom: 4px;
   transition: color 0.2s ease;
-  color: white;
+  color: blueviolet;
 }
 
 .nav__links a:not(.btn)::after {
